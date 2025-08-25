@@ -6,8 +6,8 @@
 <p align="center">
 | <a href = "#desafio">Desafio</a> |
 <a href = "#userstory">User Story e Backlog</a> |
-<a href = "#Diagrama">Diagramas</a> |
-<a href = "#Equipe">Equipe</a> |
+<a href = "#diagrama">Diagramas</a> |
+<a href = "#equipe">Equipe</a> |
 </p>
 
 ## 🏅 Desafio <a id="desafio"></a>
@@ -45,6 +45,7 @@ Dev Team     | Théo Pinto          | [Acessar Github](https://github.com/Thorph
 Dev Team     | Ana Beatriz         | [Acessar Github](https://github.com/Anasouza2802)            |
 Dev Team     |Gustavo Gramacho     | [Acessar Github](https://github.com/gramachoo)               |
 Dev Team     | Lukas Keiji         | [Acessar Github](https://github.com/Lucaskeiji)              |
+
 
 
 
