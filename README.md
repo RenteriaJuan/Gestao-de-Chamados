@@ -27,11 +27,11 @@ O desafio consiste em criar uma aplicação web, desktop e mobile de suporte tec
 
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
 
-| Sprint          |    Período    | Documentação                                     |
-| --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINT 1** |  - | |
+| Sprint          |    Período    | Documentação                            |
+| --------------- | :-----------: | ----------------------------------------|
+| 🔖 **SPRINT 1** | 18/08 - 25/08 | [Sprint1](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint1.md) |
 | 🔖 **SPRINT 2** |  - | |
-| 🔖 **SPRINT 3** |  - | |
+
 
 
 ## Tecnologias Utilizadas 💻
