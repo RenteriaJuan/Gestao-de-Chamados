@@ -39,6 +39,7 @@ O desafio consiste em criar uma aplicação web, desktop e mobile de suporte tec
 Categoría | Tecnologías
 --------- | -------------
 FrontEnd | HTML, CSS e Figma (Modelagem da interface) 
+BackEnd | Python e C#
 Base De Dados | BrModel e SQL Server (Windows Server)
 IA | BlackBox AI
 Metodología | Scrum + Git FLow 
