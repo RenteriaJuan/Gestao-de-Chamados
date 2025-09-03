@@ -1,4 +1,9 @@
-﻿# INTERFIX 🤖
+
+![Apenas comece](https://github.com/user-attachments/assets/6ef555c0-902a-4ca5-bfc6-d68ca6a22df4)
+
+
+ 
+ # INTERFIX 🤖
  
 ### Quem somos?
 A InterFix é uma empresa dedicada a transformar o suporte técnico empresarial por meio do uso de inteligência artificial. Nosso objetivo é conectar soluções inteligentes com as necessidades de nossos clientes, oferecendo assistência eficiente, personalizada e em tempo real.
@@ -11,6 +16,9 @@ A InterFix é uma empresa dedicada a transformar o suporte técnico empresarial 
    
    | <a href=#desafio>Desafio</a> | [Backlog do Produto](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/BackLog/BackLog%20do%20Produto.md) |
    <a href=#sprint>Cronograma de Sprints</a> | <a href=#tecnologias>Tecnologias Utilizadas</a> | <a href=#equipe>Integrantes</a> |
+   
+   > Status do Projeto: Em andamento ⏳
+>
 
   
 
