@@ -9,8 +9,8 @@ A InterFix é uma empresa dedicada a transformar o suporte técnico empresarial 
 
  
    
-   | [Backlog do Produto](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/BackLog/BackLog%20do%20Produto.md). |
-   Cronograma de evolução |
+   | <a href=#desafio>Desafio</a> | [Backlog do Produto](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/BackLog/BackLog%20do%20Produto.md) |
+   <a href=#sprint>Cronograma de Sprints</a> | <a href=#tecnologias>Tecnologias Utilizadas</a> | <a href=#equipe>Integrantes</a> |
 
   
 
@@ -46,7 +46,7 @@ InterFix ST. Permitirá aos usuários criar ou gerenciar chamadas dependendo do 
 
 
 
-## Tecnologias Utilizadas 💻
+## Tecnologias Utilizadas <a id="tecnologias"></a> 💻 
 
 Categoría | Tecnologías
 --------- | -------------
@@ -56,7 +56,7 @@ Base De Dados | BrModel e SQL Server (Windows Server)
 IA | BlackBox AI
 Metodología | Scrum + Git FLow 
 
-## Integrantes 👥
+## Integrantes <a id="equipe"></a>👥
 
 Função       | Nome                | Github                                                       |
 ------------ | --------------------| -------------------------------------------------------------|
