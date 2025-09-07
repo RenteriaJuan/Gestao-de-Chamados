@@ -14,7 +14,7 @@ A InterFix é uma empresa dedicada a transformar o suporte técnico empresarial 
 
  
    
-   | <a href=#desafio>Desafio</a> | [Backlog do Produto](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/BackLog/BackLog%20do%20Produto.md) |
+   | <a href=#desafio>Desafio</a> | [Backlog do Produto](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/BackLog/BackLog%20do%20Produto.md) | <a href=#dor>DoR</a> | <a href=#dod>DoD</a> |
    <a href=#sprint>Cronograma de Sprints</a> | <a href=#tecnologias>Tecnologias Utilizadas</a> | <a href=#equipe>Integrantes</a> |
    
    > Status do Projeto: Em andamento ⏳
@@ -39,7 +39,7 @@ InterFix ST. Permitirá aos usuários criar ou gerenciar chamadas dependendo do 
 * Modelagem do **Banco de Dados**
 
 
-## DoD - Definition of Done 🏆
+## DoD - Definition of Done 🏆 <a id="dod"></a>
 
 * Manual da Aplicação
 
