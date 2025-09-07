@@ -1,6 +1,7 @@
 # InterFix
 
 ## Sprint 2
+<img width="1024" height="1024" alt="481608340-ccec30ac-17d1-438f-a3b2-d0c1431cfbd8" src="https://github.com/user-attachments/assets/55cd26f9-5207-4fef-b71b-05125be420f0" />
 
 <p align="center">
 | <a href = "#classes">Diagrama de classes</a> |
@@ -27,3 +28,4 @@ Uma vez o diagrama de [caso de uso](https://github.com/RenteriaJuan/Gestao-de-Ch
 |              Critério              | Descrição                                                                                          |
 | :--------------------------------: | -------------------------------------------------------------------------------------------------- |
 |         Fluxo seguro e controlado  | Não há caminhos quebrados nem submissões incoerentes no fluxo de avaliação ou navegação.          |
+
