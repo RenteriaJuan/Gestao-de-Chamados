@@ -1,8 +1,5 @@
 
-![Apenas comece](https://github.com/user-attachments/assets/6ef555c0-902a-4ca5-bfc6-d68ca6a22df4)
 
-
- 
  # INTERFIX 🤖
  
 ### Quem somos?
