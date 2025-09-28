@@ -16,9 +16,6 @@ Uma vez o diagrama de [caso de uso](https://github.com/RenteriaJuan/Gestao-de-Ch
 
 |              Critério              | Descrição                                                                                          |
 | :--------------------------------: | -------------------------------------------------------------------------------------------------- |
-|        Clareza na Descrição        | A User Story está escrita no formato “Como [persona], quero [ação] para que [objetivo]”            |
-|  Cenários de Teste Especificados   | A história tem pelo menos 1 cenário de teste estruturado (Dado, Quando, Então).                    |
-|            Independente            | A história pode ser implementada sem depender de outra tarefa da mesma Sprint.                     |
 |     Validação com PO e equipe      | A história foi discutida em refinamento ou planning e validada com o time técnico.                 |
 | Alinhamento com arquitetura atual  | A funcionalidade proposta está coerente com o funcionamento já entregue na Sprint 1.               |
 
@@ -28,4 +25,5 @@ Uma vez o diagrama de [caso de uso](https://github.com/RenteriaJuan/Gestao-de-Ch
 |              Critério              | Descrição                                                                                          |
 | :--------------------------------: | -------------------------------------------------------------------------------------------------- |
 |         Fluxo seguro e controlado  | Não há caminhos quebrados nem submissões incoerentes no fluxo de avaliação ou navegação.          |
+
 
