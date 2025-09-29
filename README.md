@@ -11,7 +11,7 @@ A InterFix é uma empresa dedicada a transformar o suporte técnico empresarial 
 
  
    
-   | <a href=#desafio>Desafio</a> | [Backlog do Produto](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/BackLog/BackLog%20do%20Produto.md) | <a href=#dor>DoR</a> | <a href=#dod>DoD</a> |
+   | <a href=#desafio>Desafio</a> | <a href=#backlog>Backlog do Produto</a> | <a href=#dor>DoR</a> | <a href=#dod>DoD</a> |
    <a href=#sprint>Cronograma de Sprints</a> | <a href=#tecnologias>Tecnologias Utilizadas</a> | <a href=#equipe>Integrantes</a> |
    
    > Status do Projeto: Em andamento ⏳
@@ -28,6 +28,28 @@ O desafio consiste em criar uma aplicação web, desktop e mobile de suporte tec
 ## Solução 🏅
 InterFix ST. Permitirá aos usuários criar ou gerenciar chamadas dependendo do seu nível de acesso, que é dividido em 3 (Administrador, Técnico e Funcionário). As chamadas têm níveis de prioridade que são distribuídos em Baixo, Médio, Alto e Crítico. Critérios como a prioridade das chamadas serão decididos pela IA durante a atribuição da prioridade, que depois perguntará ao usuário se concorda com o nível de prioridade da chamada. Uma vez que uma chamada é atribuída a um técnico e resolvida, o sistema criará um relatório que será guardado por 2 anos junto com a chamada.
 
+## Backlog do Produto <a id ="backlog"></a>
+
+* [Backlog Do Produto](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/BackLog/BackLog%20do%20Produto.md)
+
+  ## Cronograma de Sprints <a id="sprint"></a> 📅
+
+| Sprint          |    Período    | Documentação                            |
+| --------------- | :-----------: | ----------------------------------------|
+| 🔖 **SPRINT 1** | 18/08 - 25/08 | [Sprint1](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint1.md) |
+| 🔖 **SPRINT 2** | 01/09 - 08/09 | [Sprint 2](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint%202.md) |
+| 🔖 **SPRINT 3**| 08/09 - 15/09 |[Sprint 3](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint%203.md) |
+
+## Tecnologias Utilizadas <a id="tecnologias"></a> 💻 
+
+Categoría | Tecnologías
+--------- | -------------
+FrontEnd | HTML, CSS e Figma (Modelagem da interface) 
+BackEnd |  C#
+Base De Dados | BrModel e SQL Server (Windows Server)
+IA | BlackBox AI
+Metodología | Scrum + Git FLow 
+
 ## DoR - Definition of Ready <a id="dor"></a> 🏃
 
 * User Stories com **Critérios de Aceitação**
@@ -43,26 +65,6 @@ InterFix ST. Permitirá aos usuários criar ou gerenciar chamadas dependendo do 
 * Manual de Usuário
 
 
-
-## Cronograma de Sprints <a id="sprint"></a> 📅
-
-| Sprint          |    Período    | Documentação                            |
-| --------------- | :-----------: | ----------------------------------------|
-| 🔖 **SPRINT 1** | 18/08 - 25/08 | [Sprint1](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint1.md) |
-| 🔖 **SPRINT 2** | 01/09 - 08/09 | [Sprint 2](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint%202.md) |
-| 🔖 **SPRINT 3**| 08/09 - 15/09 |[Sprint 3](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint%203.md) |
-
-
-
-## Tecnologias Utilizadas <a id="tecnologias"></a> 💻 
-
-Categoría | Tecnologías
---------- | -------------
-FrontEnd | HTML, CSS e Figma (Modelagem da interface) 
-BackEnd |  C#
-Base De Dados | BrModel e SQL Server (Windows Server)
-IA | BlackBox AI
-Metodología | Scrum + Git FLow 
 
 ## Integrantes <a id="equipe"></a>👥
 
