@@ -31,14 +31,16 @@ InterFix ST. Permitirá aos usuários criar ou gerenciar chamadas dependendo do 
 ## DoR - Definition of Ready <a id="dor"></a> 🏃
 
 * User Stories com **Critérios de Aceitação**
-* Subtarefas divididas **a partir das US**
 * Design no **Figma**
 * Modelagem do **Banco de Dados**
+* Criação das Classes
+* Modelo de iteração
 
 
 ## DoD - Definition of Done 🏆 <a id="dod"></a>
 
 * Manual da Aplicação
+* Manual de Usuário
 
 
 
