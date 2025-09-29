@@ -7,7 +7,7 @@
 | <a href = "#classes">Diagrama de classes</a> |
   <a href = "#user">User Stories</a> |
 <a href ="#DoR">DoR</a> |
-<a href ="DoD">DoD</a> |
+<a href ="#DoD">DoD</a> |
 </p>
 
 ## Diagrama de classes <a id="classes"></a>
@@ -23,7 +23,7 @@ Uma vez o [diagrama](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/mai
 |Técnico        | Quero ver meus chamados já resolvidos                                 | ter um acompanhamento dos problemas resolvidos.                                      |P2            |Re 005                |Concluído ✅| 
   
 
-## DoR - Definition of Ready 🏅 <a id="DoR"></a>
+## DoR - Definition of Ready 🏅 <a id="DoR">
 
 |              Critério              | Descrição                                                                                          |
 | :--------------------------------: | -------------------------------------------------------------------------------------------------- |
@@ -32,11 +32,12 @@ Uma vez o [diagrama](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/mai
 | Alinhamento com arquitetura atual  | A funcionalidade proposta está coerente com o funcionamento já entregue na Sprint 1.               |
 
 
-## DoD - Definition of Done 🏅 <a id="DoD"></a>
+## DoD - Definition of Done 🏅 <a id="DoD">
 
 |              Critério              | Descrição                                                                                          |
 | :--------------------------------: | -------------------------------------------------------------------------------------------------- |
 |         Fluxo seguro e controlado  | Não há caminhos quebrados nem submissões incoerentes no fluxo de avaliação ou navegação.           |
+
 
 
 
