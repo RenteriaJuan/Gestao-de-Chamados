@@ -1,7 +1,6 @@
 <h1>Interfix</h1>
 
 <h2>Sprint 1</h2>
-<img width="1024" height="1024" alt="441907381-8aa8a096-88fa-4be4-952c-946d63ceed66" src="https://github.com/user-attachments/assets/ccec30ac-17d1-438f-a3b2-d0c1431cfbd8" />
 
 <p align="center">
 | <a href = "#desafio">Desafio</a> |
@@ -38,6 +37,7 @@ Dev Team     | Théo Pinto          | [Acessar Github](https://github.com/Thorph
 Dev Team     | Ana Beatriz         | [Acessar Github](https://github.com/Anasouza2802)            |
 Dev Team     |Gustavo Gramacho     | [Acessar Github](https://github.com/gramachoo)               |
 Dev Team     | Lukas Keiji         | [Acessar Github](https://github.com/Lucaskeiji)              |
+
 
 
 
