@@ -28,7 +28,7 @@ O desafio consiste em criar uma aplicação web, desktop e mobile de suporte tec
 ## Solução 🏅
 InterFix ST. Permitirá aos usuários criar ou gerenciar chamadas dependendo do seu nível de acesso, que é dividido em 3 (Administrador, Técnico e Funcionário). As chamadas têm níveis de prioridade que são distribuídos em Baixo, Médio, Alto e Crítico. Critérios como a prioridade das chamadas serão decididos pela IA durante a atribuição da prioridade, que depois perguntará ao usuário se concorda com o nível de prioridade da chamada. Uma vez que uma chamada é atribuída a um técnico e resolvida, o sistema criará um relatório que será guardado por 2 anos junto com a chamada.
 
-## Backlog do Produto <a id ="backlog"></a>
+## Backlog do Produto <a id ="backlog"></a> 🔩
 
 * [Backlog Do Produto](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/BackLog/BackLog%20do%20Produto.md)
 
