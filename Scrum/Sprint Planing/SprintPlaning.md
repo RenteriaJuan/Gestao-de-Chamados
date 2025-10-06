@@ -1,25 +1,16 @@
-\# Interfix
+# Interfix
 
 
 
 <p align="center">
-
 | <a href = "#sprint1">Sprint 1</a> |
-
 <a href = "#sprint2">Sprint 2</a> |
-
 <a href = "#sprint3">Sprint 3</a> |
-
 <a href = "#sprint4">Sprint 4</a> |
-
 <a href = "#sprint5">Sprint 5</a> |
-
 <a href = "#sprint6">Sprint 6</a> |
-
 <a href = "#sprint7">Sprint 7</a> |
-
 <a href = "#sprint8">Sprint 8</a> |
-
 </p>
 
 
