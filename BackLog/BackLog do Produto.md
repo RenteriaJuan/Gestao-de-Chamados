@@ -10,9 +10,9 @@
 |Técnico        | Quero gerenciar meus chamados asginados                               | Ser mais organizado em meu trabalho diário.                                          |P2            |Re 003                |Concluído ✅|
 |Técnico        | Quero marcar meu chamado como resolvido                               | Saber quando o problema foi resolvido.                                               |P2            |Re 003                |Concluído ✅|
 |Técnico        | Quero ver meus chamados já resolvidos                                 | ter um acompanhamento dos problemas resolvidos.                                      |P2            |Re 005                |Concluído ✅| 
-|Técnico/Admin  | Quero criar relatorios dos chamados criados, resolvidos e pendentes   | para saber qual área está gerando mais problemas na empresa.                         |P2            |Re 004                |Em andamento ⏳|
+|Técnico/Admin  | Quero criar relatorios dos chamados criados, resolvidos e pendentes   | para saber qual área está gerando mais problemas na empresa.                         |P2            |Re 004                |Concluído ✅ |
 |Administrador  | Desejo poder gerenciar os níveis de acesso                            | que os usuários possam ter sua função atribuída a eles.                              |P1            |Re 005                |Concluído ✅|
-|Administrador  | Desejo poder gerenciar os chamados                                    | Conhecer quais problemas existem na empresa e que prioridade está sendo dada a eles. |P1            |Re 003                |Em andamento ⏳|
+|Administrador  | Desejo poder gerenciar os chamados                                    | Conhecer quais problemas existem na empresa e que prioridade está sendo dada a eles. |P1            |Re 003                |Concluído ✅ |
   
 
 ## Requisitos 
@@ -39,4 +39,5 @@ Re004: Criação de Relatórios: O sistema deve ser capaz de criar relatórios s
 
 Prioridade 3: 
 Re005: Níveis de acesso: O Sistema deve possuir níveis de acesso (funcionário, responsável técnico e administrador).
+
 
