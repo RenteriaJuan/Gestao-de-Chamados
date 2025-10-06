@@ -33,12 +33,16 @@ InterFix ST. Permitirá aos usuários criar ou gerenciar chamadas dependendo do 
 * [Backlog Do Produto](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/BackLog/BackLog%20do%20Produto.md)
 
   ## Cronograma de Sprints <a id="sprint"></a> 📅
+  
+ * [SprintPlaning](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Sprint%20Planing/SprintPlaning.md)
 
 | Sprint          |    Período    | Documentação                            |
 | --------------- | :-----------: | ----------------------------------------|
 | 🔖 **SPRINT 1** | 18/08 - 25/08 | [Sprint1](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint1.md) |
 | 🔖 **SPRINT 2** | 01/09 - 08/09 | [Sprint 2](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint%202.md) |
 | 🔖 **SPRINT 3**| 08/09 - 15/09 |[Sprint 3](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint%203.md) |
+| 🔖 **SPRINT 4**| 15/09 - 22/09 |[Sprint 4](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint4.md) |
+| 🔖 **SPRINT 5**| 22/09 - 29/09 |[Sprint 5](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint5.md)|
 
 ## Tecnologias Utilizadas <a id="tecnologias"></a> 💻 
 
