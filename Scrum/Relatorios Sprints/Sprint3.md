@@ -36,16 +36,9 @@ Com a criação dos dois [diagramas](https://github.com/RenteriaJuan/Gestao-de-C
 |              Critério              | Descrição                                                                                          |
 | :--------------------------------: | -------------------------------------------------------------------------------------------------- |
 |         Fluxo seguro e controlado  | Não há caminhos quebrados nem submissões incoerentes no fluxo de avaliação ou navegação.           |
-
-
-
-
-## 🏅 DoD - Definition of Done <a id="dod"></a>
-
-| Critério                           | Descrição                                                                                |
-| ---------------------------------- | ---------------------------------------------------------------------------------------- |
-| Critérios de Aceitação Atendidos   | Todos os critérios definidos na US foram implementados e validados com sucesso.          |
 | Regras de Segurança Aplicadas      | Acesso, autenticação, logout, edição e redefinição de senha seguem padrões de segurança. |
+
+
 
 
 
