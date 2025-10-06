@@ -4,7 +4,7 @@
 
 <p align="center">
 | <a href = "#desafio">Desafio</a> |
-<a href = "#userstory">User Story e Backlog</a> |
+<a href = "#backlog">User Stories e Backlog</a> |
 <a href = "#diagrama">Diagramas</a> |
 <a href = "#equipe">Equipe</a> |
 </p>
@@ -12,15 +12,7 @@
 ## 🏅 Desafio <a id="desafio"></a>
 O desafio consiste em criar uma aplicação web, desktop e mobile de suporte tecnico e gestão de chamados con integração de IA. O aplicativo possuira três níveis de acesso e deve ser capaz de analisar e atribuir a prioridade do chamado, também atribuirá o chamado ao técnico que tiver a carga horária mais baixa. Além da criação e gestão de chamadas, o sistema deverá gerar e gerenciar relatórios (com filtro de tempo), disponibilizando também uma função para gerenciar os níveis de acesso (função à qual somente o administrador poderá acessar).
 
-## *UserStory* <a id="userstory"> </a>
-
-|*Quem?*        | *O que?*                                                              |*Para*                                                                                | *Prioridade* | *Status*      |
-|---------------|-----------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------|---------------| 
-|Funcionario    | Quero criar chamados de suporte com descrição e categoria detalhadas. | Relatar problemas técnicos de forma organizada.                                      |P1            |Concluído ✅|
-|Funcionario    | Quero ver o status de meus chamados anteriores                        | Fazer um acompanhamento sem entrar em contato com a area de TI.                      |P2            |Concluído ✅|
-
-
-### Backlog
+## Backlog <a id="backlog"></a>
 O backlog do produto em formato textual e tabelado, poderá ser visualizado desde [aqui](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/bcae397edbbc227ac981d20e611f2ca073bdc3ce/Backlog/Backlog%20do%20produto.txt), mostrando os requisitos a serem cumpridos seguindo as regras de negócios.  
 
 ## Diagrama <a id="diagrama"></a>
