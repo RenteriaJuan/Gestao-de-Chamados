@@ -12,7 +12,7 @@ A InterFix é uma empresa dedicada a transformar o suporte técnico empresarial 
  
    
    | <a href=#desafio>Desafio</a> | <a href=#backlog>Backlog do Produto</a> | <a href=#dor>DoR</a> | <a href=#dod>DoD</a> |
-   <a href=#sprint>Cronograma de Sprints</a> | <a href=#tecnologias>Tecnologias Utilizadas</a> | <a href=#estrutura>Estrutura do Projeto</a> | <a href=#execucao>Execução do Projeto</a> | <a href=#equipe>Integrantes</a> |
+   <a href=#sprint>Cronograma de Sprints</a> | <a href=#tecnologias>Tecnologias Utilizadas</a> | <a href=#estrutura>Estrutura do Projeto</a> | <a href=#execucao>Execução do Projeto</a> | <a href=#documentacao>Documentação</a> | <a href=#equipe>Integrantes</a> |
    
    > Status do Projeto: Em andamento ⏳
 >
@@ -64,6 +64,19 @@ A estrutura do projeto podera ser acessada desde [AQUI](https://github.com/Rente
 
 O manual de instalção do Projeto podera ser acessado desde [AQUI](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Docs/Manual%20de%20Instal%C3%A7%C3%A3o/Manual%20de%20Insta%C3%A7%C3%A3o.md#instalacao)
 
+## Documentação <a id="documentacao"></a>
+
+A documentação do Projeto podera ser acessada desde [AQUI]()
+
+## Integrantes <a id="equipe"></a>👥
+
+Função       | Nome                | Github                                                       |
+------------ | --------------------| -------------------------------------------------------------|
+Project Owner| Christian Fernandes | [Acessar Github](https://github.com/ChristianFernandesLemos) |
+Scrum Master | Juan Vargas         | [Acessar Github](https://github.com/RenteriaJuan)            |
+Dev Team     | Théo Pinto          | [Acessar Github](https://github.com/Thorphinm)               |
+Dev Team     | Ana Beatriz         | [Acessar Github](https://github.com/Anasouza2802)            |
+
 ## DoR - Definition of Ready <a id="dor"></a> 🏃
 
 * User Stories com **Critérios de Aceitação**
@@ -78,15 +91,5 @@ O manual de instalção do Projeto podera ser acessado desde [AQUI](https://gith
 * Manual da Aplicação
 * Manual de Usuário
 
-
-
-## Integrantes <a id="equipe"></a>👥
-
-Função       | Nome                | Github                                                       |
------------- | --------------------| -------------------------------------------------------------|
-Project Owner| Christian Fernandes | [Acessar Github](https://github.com/ChristianFernandesLemos) |
-Scrum Master | Juan Vargas         | [Acessar Github](https://github.com/RenteriaJuan)            |
-Dev Team     | Théo Pinto          | [Acessar Github](https://github.com/Thorphinm)               |
-Dev Team     | Ana Beatriz         | [Acessar Github](https://github.com/Anasouza2802)            |
 Dev Team     |Gustavo Gramacho     | [Acessar Github](https://github.com/gramachoo)               |
 Dev Team     | Lukas Keiji         | [Acessar Github](https://github.com/Lucaskeiji)              |
