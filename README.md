@@ -12,7 +12,7 @@ A InterFix é uma empresa dedicada a transformar o suporte técnico empresarial 
  
    
    | <a href=#desafio>Desafio</a> | <a href=#backlog>Backlog do Produto</a> | <a href=#dor>DoR</a> | <a href=#dod>DoD</a> |
-   <a href=#sprint>Cronograma de Sprints</a> | <a href=#tecnologias>Tecnologias Utilizadas</a> | <a href=#equipe>Integrantes</a> |
+   <a href=#sprint>Cronograma de Sprints</a> | <a href=#tecnologias>Tecnologias Utilizadas</a> | <a href=#estrutura>Estrutura do Projeto</a> | <a href=#execucao>Execução do Projeto</a> | <a href=#equipe>Integrantes</a> |
    
    > Status do Projeto: Em andamento ⏳
 >
@@ -55,6 +55,14 @@ BackEnd |  C#
 Base De Dados | BrModel e SQL Server (Windows Server)
 IA | BlackBox AI
 Metodología | Scrum + Git FLow 
+
+## Estrutura do projeto 🏗️ <a id="estrutura"></a>
+
+A estrutura do projeto podera ser acessada desde [AQUI]()
+
+## Execução do Projeto 🗃 <a id="execucao"></a> 
+
+O manual de instalção do Projeto podera ser acessado desde [AQUI]()
 
 ## DoR - Definition of Ready <a id="dor"></a> 🏃
 
