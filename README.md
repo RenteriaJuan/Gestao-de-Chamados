@@ -58,11 +58,11 @@ Metodología | Scrum + Git FLow
 
 ## Estrutura do projeto 🏗️ <a id="estrutura"></a>
 
-A estrutura do projeto podera ser acessada desde [AQUI]()
+A estrutura do projeto podera ser acessada desde [AQUI](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Docs/Estrutura%20do%20projeto/Estrutra%20do%20Projeto.md)
 
 ## Execução do Projeto 🗃 <a id="execucao"></a> 
 
-O manual de instalção do Projeto podera ser acessado desde [AQUI]()
+O manual de instalção do Projeto podera ser acessado desde [AQUI](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Docs/Manual%20de%20Instal%C3%A7%C3%A3o/Manual%20de%20Insta%C3%A7%C3%A3o.md#instalacao)
 
 ## DoR - Definition of Ready <a id="dor"></a> 🏃
 
