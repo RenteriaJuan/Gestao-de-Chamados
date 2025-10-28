@@ -56,7 +56,7 @@ Base De Dados | BrModel e SQL Server (Windows Server)
 IA | BlackBox AI
 Metodología | Scrum + Git FLow 
 
-## Estrutura do projeto 🏗️ <a id="estrutura"></a>
+## [Estrutura do projeto](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Docs/Estrutura%20do%20projeto/Estrutra%20do%20Projeto.md) 🏗️ <a id="estrutura"></a>
 
 A estrutura do projeto podera ser acessada desde [AQUI](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Docs/Estrutura%20do%20projeto/Estrutra%20do%20Projeto.md)
 
