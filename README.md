@@ -21,18 +21,16 @@ A InterFix é uma empresa dedicada a transformar o suporte técnico empresarial 
 
 
 
-## Desafio <a id="desafio"></a> 🏅
+> ## Desafio <a id="desafio"></a> 🏅
 
 O desafio consiste em criar uma aplicação web, desktop e mobile de suporte tecnico e gestão de chamados com integração de IA. O aplicativo possuira três níveis de acesso e deve ser capaz de analisar e atribuir a prioridade do chamado, também atribuirá o chamado ao técnico que tiver a carga horária mais baixa. Além da criação e gestão de chamadas, o sistema deverá gerar e gerenciar relatórios (com filtro de tempo), disponibilizando também uma função para gerenciar os níveis de acesso (função à qual somente o administrador poderá acessar).
 
-## Solução 🏅
+> ## Solução 🏅
 InterFix ST. Permitirá aos usuários criar ou gerenciar chamadas dependendo do seu nível de acesso, que é dividido em 3 (Administrador, Técnico e Funcionário). As chamadas têm níveis de prioridade que são distribuídos em Baixo, Médio, Alto e Crítico. Critérios como a prioridade das chamadas serão decididos pela IA durante a atribuição da prioridade, que depois perguntará ao usuário se concorda com o nível de prioridade da chamada. Uma vez que uma chamada é atribuída a um técnico e resolvida, o sistema criará um relatório que será guardado por 2 anos junto com a chamada.
 
-## Backlog do Produto <a id ="backlog"></a> 🔩
+> ## [Backlog do Produto](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/BackLog/BackLog%20do%20Produto.md) <a id ="backlog"></a> 🔩
 
-* [Backlog Do Produto](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/BackLog/BackLog%20do%20Produto.md)
-
-  ## Cronograma de Sprints <a id="sprint"></a> 📅
+> ## Cronograma de Sprints <a id="sprint"></a> 📅
   
  * [SprintPlaning](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Sprint%20Planing/SprintPlaning.md)
 
@@ -46,7 +44,7 @@ InterFix ST. Permitirá aos usuários criar ou gerenciar chamadas dependendo do 
 | 🔖 **SPRINT 6**| 29/09 - 06/10 |[Sprint 6](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint6.md)|
 | 🔖 **SPRINT 7**| 06/10 - 13/10 |[Sprint 7](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint7.md)|
 
-## Tecnologias Utilizadas <a id="tecnologias"></a> 💻 
+> ## Tecnologias Utilizadas <a id="tecnologias"></a> 💻 
 
 Categoría | Tecnologías
 --------- | -------------
@@ -65,7 +63,7 @@ Metodología | Scrum + Git FLow
 > ## [Documentação]() 📄<a id="documentacao"></a>
 
 
-## Integrantes <a id="equipe"></a>👥
+> ## Integrantes <a id="equipe"></a>👥
 
 Função       | Nome                | Github                                                       |
 ------------ | --------------------| -------------------------------------------------------------|
@@ -77,7 +75,7 @@ Dev Team     |Gustavo Gramacho     | [Acessar Github](https://github.com/gramach
 Dev Team     | Lukas Keiji         | [Acessar Github](https://github.com/Lucaskeiji)              |
 
 
-## DoR - Definition of Ready <a id="dor"></a> 🏃
+> ## DoR - Definition of Ready <a id="dor"></a> 🏃
 
 * User Stories com **Critérios de Aceitação**
 * Design no **Figma**
@@ -86,7 +84,7 @@ Dev Team     | Lukas Keiji         | [Acessar Github](https://github.com/Lucaske
 * Modelo de iteração
 
 
-## DoD - Definition of Done 🏆 <a id="dod"></a>
+> ## DoD - Definition of Done 🏆 <a id="dod"></a>
 
 * Manual da Aplicação
 * Manual de Usuário
