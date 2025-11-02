@@ -86,6 +86,6 @@ Dev Team     | Lukas Keiji         | [Acessar Github](https://github.com/Lucaske
 
 > ## DoD - Definition of Done 🏆 <a id="dod"></a>
 
-* Manual da Aplicação
-* Manual de Usuário
+* [Manual da Aplicação](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Docs/Manual%20de%20Instalção/Manual%20de%20Instação.md)
+* [Manual de Usuário](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Docs/Manual%20de%20usuario/Manual_de_Uso_InterFix.docx)
 
