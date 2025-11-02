@@ -43,6 +43,7 @@ InterFix ST. Permitirá aos usuários criar ou gerenciar chamadas dependendo do 
 | 🔖 **SPRINT 5**| 22/09 - 29/09 |[Sprint 5](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint5.md)|
 | 🔖 **SPRINT 6**| 29/09 - 06/10 |[Sprint 6](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint6.md)|
 | 🔖 **SPRINT 7**| 06/10 - 13/10 |[Sprint 7](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint7.md)|
+| 🔖 **SPRINT 8**| 20/10 - 27/10 |[Sprint 8](https://github.com/RenteriaJuan/Gestao-de-Chamados/blob/main/Scrum/Relatorios%20Sprints/Sprint8.md)|
 
 > ## Tecnologias Utilizadas <a id="tecnologias"></a> 💻 
 
