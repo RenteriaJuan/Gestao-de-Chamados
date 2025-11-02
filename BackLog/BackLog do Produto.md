@@ -4,8 +4,8 @@
 |---------------|-----------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------|----------------------|---------------| 
 |Funcionario    | Quero criar chamados de suporte com descrição e categoria detalhadas. | Relatar problemas técnicos de forma organizada.                                      |P1            |Re 001                |Concluído ✅ |
 |Funcionario    | Quero ver o status de meus chamados anteriores                        | Fazer um acompanhamento sem entrar em contato com a area de TI.                      |P2            |Re 001                |Concluído ✅|
-|Sistema        | Como um sistema de IA, devo analisar a descrição do chamado.          | Atribuição de prioridade (baixa/média/alta) com base em palavras-chave históricas.   |P1            |Re 002                |Em andamento ⏳| 
-|Sistema        | Como um sistema de IA, devo atribuir chamados ao técnico              | Que o técnico designado resolva o chamado.                                           |P1            |Re 002                |Em andamento ⏳| 
+|Sistema        | Como um sistema de IA, devo analisar a descrição do chamado.          | Atribuição de prioridade (baixa/média/alta) com base em palavras-chave históricas.   |P1            |Re 002                |Concluído ✅| 
+|Sistema        | Como um sistema de IA, devo atribuir chamados ao técnico              | Que o técnico designado resolva o chamado.                                           |P1            |Re 002                |Concluído ✅| 
 |Técnico        | Quero Exbir chamados atribuídos                                       | Saber quais chamados estão pendentes para serem resolvidos.                          |P1            |Re 003                |Concluído ✅|
 |Técnico        | Quero gerenciar meus chamados asginados                               | Ser mais organizado em meu trabalho diário.                                          |P2            |Re 003                |Concluído ✅|
 |Técnico        | Quero marcar meu chamado como resolvido                               | Saber quando o problema foi resolvido.                                               |P2            |Re 003                |Concluído ✅|
@@ -39,5 +39,6 @@ Re004: Criação de Relatórios: O sistema deve ser capaz de criar relatórios s
 
 Prioridade 3: 
 Re005: Níveis de acesso: O Sistema deve possuir níveis de acesso (funcionário, responsável técnico e administrador).
+
 
 
